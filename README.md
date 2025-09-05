@@ -33,8 +33,8 @@ This dashboard helps users understand Netflix’s content distribution, popular 
 
 ---
 ## 🔗 Links  
-- 📂 **GitHub Repository:** [Add your GitHub Repo Link here]  
-- 🔗 **LinkedIn Project Post:** [https://www.linkedin.com/in/shrutika-kamble-9522221ab]  
+- 📂 **GitHub Repository:** [https://github.com/Shrutika021/Netflix-dashboard-Powerbi.git] 
+- 🔗 **LinkedIn Project Post:** [https://www.linkedin.com/in/shrutika-kamble-9522221ab] 
 
 ---
 ## 📸 Dashboard Preview  
