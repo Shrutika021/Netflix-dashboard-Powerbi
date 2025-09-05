@@ -38,4 +38,4 @@ This dashboard helps users understand Netflix’s content distribution, popular 
 
 ---
 ## 📸 Dashboard Preview  
-![Netflix Dashboard](https://github.com/Shrutika021/Netflix-dashboard-Powerbi/blob/main/Netflix%20Dashboard.png?raw=true)
+![Netflix Dashboard](https://github.com/Shrutika021/Netflix-dashboard-Powerbi/blob/main/Dashboard.png?raw=true)
